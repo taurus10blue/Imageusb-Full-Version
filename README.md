@@ -239,4 +239,4 @@ This repository serves as the official landing page for imageUSB. The software i
 **Get the most recent version of imageUSB today!**
 
 ---
-**Last updated:** 2026-09-22 23:18:57 UTC
+**Last updated:** 2026-09-23 01:56:56 UTC
